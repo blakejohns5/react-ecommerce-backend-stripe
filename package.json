@@ -1,0 +1,20 @@
+{
+  "name": "react-ecommerce-backend-stripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakejohns5/react-ecommerce-backend-stripe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakejohns5/react-ecommerce-backend-stripe/issues"
+  },
+  "homepage": "https://github.com/blakejohns5/react-ecommerce-backend-stripe#readme"
+}
