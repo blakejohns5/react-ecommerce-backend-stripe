@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "name": "Adidas Intercontinental 80",
+      "price": 104.99,
+      "img": "/img/img_01.jpg",
+      "sale": null
+    },
+    {
+      "id": 1002,
+      "name": "Nike Jordan 1 Low",
+      "price": 109,
+      "img": "/img/img_02.jpg",
+      "sale": 92.25
+    },
+    {
+      "id": 1003,
+      "name": "New Balance WL574 State Fair",
+      "price": 72,
+      "img": "/img/img_03.jpg",
+      "sale": null
+    },
+    {
+      "id": 1004,
+      "name": "Nike Cortez",
+      "price": 89.9,
+      "img": "/img/img_04.jpg",
+      "sale": null
+    },
+    {
+      "id": 1005,
+      "name": "Puma X-Ray Colourblock Low",
+      "price": 65,
+      "img": "/img/img_17.jpg",
+      "sale": null
+    },
+    {
+      "id": 1006,
+      "name": "Vans Checkerboard SK8-HI Tapered",
+      "price": 59.9,
+      "img": "/img/img_06.jpg",
+      "sale": null
+    },
+    {
+      "id": 1007,
+      "name": "New Balance 997H",
+      "price": 76.95,
+      "img": "/img/img_07.jpg",
+      "sale": 60
+    },
+    {
+      "id": 1008,
+      "name": "Nike Blazer MID 77",
+      "price": 75.2,
+      "img": "/img/img_08.jpg",
+      "sale": null
+    },
+    {
+      "id": 1009,
+      "name": "Converse CT All-Star",
+      "price": 70,
+      "img": "/img/img_09.jpg",
+      "sale": 58.99
+    },
+    {
+      "id": 1010,
+      "name": "Reebok Club C 85 Montana",
+      "price": 86,
+      "img": "/img/img_10.jpg",
+      "sale": null
+    },
+    {
+      "id": 1011,
+      "name": "New Balance 574",
+      "price": 116.99,
+      "img": "/img/img_14.jpg",
+      "sale": 110
+    },
+    {
+      "id": 1012,
+      "name": "Reebok Zig Dynamica",
+      "price": 122,
+      "img": "/img/img_15.jpg",
+      "sale": null
+    },
+    {
+      "id": 1013,
+      "name": "Nike Air Jordan 5 Retro Sail",
+      "price": 275,
+      "img": "/img/img_10.jpg",
+      "sale": null
+    },
+    {
+      "id": 1014,
+      "name": "New Balance 327",
+      "price": 129,
+      "img": "/img/img_16.jpg",
+      "sale": 120
+    },
+    {
+      "id": 1015,
+      "name": "Adidas Superstar Vegan",
+      "price": 101,
+      "img": "/img/img_11.jpg",
+      "sale": 89
+    },
+    {
+      "id": 1016,
+      "name": "Reebok Club C Revenge",
+      "price": 85,
+      "img": "/img/img_05.jpg",
+      "sale": null
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "123",
+      "favorites": [],
+      "active": true
+    },
+    {
+      "id": 2,
+      "username": "susan",
+      "email": "susan@admin.com",
+      "password": "123",
+      "favorites": [],
+      "active": true
+    },
+    {
+      "id": 3,
+      "username": "jason",
+      "email": "jason@json.json",
+      "password": "json",
+      "favorites": null,
+      "active": true
+    }
+  ]
+}
