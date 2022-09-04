@@ -2,9 +2,11 @@
   "name": "react-ecommerce-backend-stripe",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/api/server.js",
+  "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/api/server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/blakejohns5/react-ecommerce-backend-stripe/issues"
   },
-  "homepage": "https://github.com/blakejohns5/react-ecommerce-backend-stripe#readme"
+  "homepage": "https://github.com/blakejohns5/react-ecommerce-backend-stripe#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "stripe": "^10.7.0"
+  }
 }
